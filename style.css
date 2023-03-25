@@ -2,7 +2,7 @@ html{
     box-sizing: border-box;
 }
 body {
-    background-image: url("/images/fon");
+    background-image: url("images/fon");
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin: 0px;
     color: rgb(29, 0, 253);
